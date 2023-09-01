@@ -1,0 +1,24 @@
+title: <p align="center"> Chris Tran </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/andrewschell/">LinkedIn</a> |
+  <a href="https://github.com/datatalking">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am pursing a MS degree in Statistics and Data Science from Massachusetts Institute of Technology.
+  <br><br>
+  I am a Senior Full Stack Product Data Analyst, my research and
+  engineering interests are mainly in the areas of data cleaning, NLP chatbot agents, artificial intelligence, and algorithms that identify patterns for business or social value in
+  user-friendly software
+  engineering..
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
+# TODO update google analytics ID
+google_analytics: UA-145578661-1 # Google Analytics tracking ID
