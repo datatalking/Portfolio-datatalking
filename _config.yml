@@ -1,4 +1,4 @@
-title: <p align="center"> Chris Tran </p>
+title: <p align="center"> Andrew Schell </p>
 
 logo: "/images/picture.png?raw=true"
 
@@ -15,10 +15,12 @@ description:
   I am a Senior Full Stack Product Data Analyst, my research and
   engineering interests are mainly in the areas of data cleaning, NLP chatbot agents, artificial intelligence, and algorithms that identify patterns for business or social value in
   user-friendly software
-  engineering..
+  engineering.
   <br><br>
   </p>
   
 theme: jekyll-theme-minimal
 # TODO update google analytics ID
 google_analytics: G-FVCXTYHXBV # Google Analytics tracking ID
+plugins:
+- jekyll-remote-theme
