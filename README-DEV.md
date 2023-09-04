@@ -1,7 +1,7 @@
 
 
 ## Folder Structure
-<p>
+
 """
 Portfolio-datatalking
 │
@@ -39,7 +39,8 @@ Portfolio-datatalking
 ├── README.md
 ├── README-DEV.md
 └── tree.py
-<p>
+"""
+
 
 
 ## Courses to migrate code, courswork and graphics
