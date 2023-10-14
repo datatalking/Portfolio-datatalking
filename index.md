@@ -3,7 +3,7 @@
 ## Natural Language Processing
 
 ### Twitter Sentiment Analysis: Lets Make Friends
-### 0 of 7
+### 1 of 7
 
 The [Let's Make (Twitter) Friends in Seattle](https://www.eventbrite.com/e/lets-make-twitter-friends-tickets-27060418440)hackathon was hosted by a Institute for Systems Biology  in Seattle to encourage python users on writing useful 
 code 
@@ -43,7 +43,7 @@ tinyurl.com/j8d53vs
 
 
 ### RankUp: Lets Find Jobs
-### 0 of 7
+### 2 of 7
 
 The hackathon was hosted by a lifescience company in Seattle to encourage API education.
 
@@ -62,11 +62,11 @@ My complete implementation of assignments and projects in [***MATH341: Applied S
 ([GitHub](https://github.com/datatalking/CS224n-NLP-Assignments/tree/master/assignments/a3))
 
 ### MATH340: Automated K-Means Computation
-### 2 of 7
+### 3 of 7
 KMEANS GIF here
 
 ### Multi-Environment bug in Python 3.7
-### 3 of 7
+### 4 of 7
 Fixed bug in Python 3.7 for multi-environment computation.
 bug list or other GIF here
 cihwof-vyvteS-9matre
@@ -82,7 +82,7 @@ terrabytes of data and while python 3.7 is officially deprecated I can still use
 are in the que to update this tool through Python 3.10
 
 ### Morningstar API integration with SQL database bug
-### 4 of 7
+### 5 of 7
 MORNINGSTAR LOGO here
 
 [Mstables Contributor](https://github.com/caiobran/mstables)
@@ -116,14 +116,11 @@ automating the testing, ingestion
 
 
 ### MATH340: Automated K-Means Computation
-### 5 of 7
+### 6 of 7
 
 FUTURE
 ### DA460: Implementation of Bert Glove Transformer for Resume ingestion
-### 6 of 7
-
-### DA460: Testing of Bert-Ernie Glove Transformer 
-### 6 of 7
+### 7 of 7
 
 What started as an expansion upon my early work in Chatbots evolved to need a more efficent solution found in a hybrid 
 implementation of 
@@ -143,6 +140,10 @@ As part of my research for Machine Learning is to build a model that can process
 causality from conversational logs with people.
 
 <img src="images/v2/Twitter_Kimbot/Screen Shot 2023-08-26 at 6.55.31 PM.png"/>
+
+
+### DA460: Testing of Bert-Ernie Glove Transformer 
+### 8 of 7
 
 ### References:
 - Smarter Healthcare Chatbots as functional architecture is presented that is proposed to build an intelligent chatbot 
